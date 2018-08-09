@@ -8,7 +8,7 @@ function destructivelyAppendKitten(name)
 function destructivelyPrependKitten(name)
 {
   kittens=[name,"Milo", "Otis", "Garfield"];
-  return kittensl;
+  return kittens;
 }
 function destructivelyRemoveLastKitten()
 {
