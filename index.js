@@ -22,7 +22,7 @@ function appendKitten (name)
 {
   var newarray=kittens.push(name);
   return newarray;
-  
+
 
 }
 function prependKitten (name)
