@@ -7,7 +7,7 @@ function destructivelyAppendKitten(name)
 }
 function destructivelyPrependKitten(name)
 {
-  
+
   return [name,"Milo", "Otis", "Garfield"];
 }
 function destructivelyRemoveLastKitten()
