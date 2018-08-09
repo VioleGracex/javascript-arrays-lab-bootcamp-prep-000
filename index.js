@@ -6,7 +6,7 @@ function destructivelyAppendKitten(name)
     return kittens;
 }
 function destructivelyPrependKitten(name)
-{   
+{
   kittens=[name,"Milo", "Otis", "Garfield"];
   return kittensl;
 }
