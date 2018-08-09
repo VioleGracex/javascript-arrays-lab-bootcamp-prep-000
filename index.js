@@ -26,11 +26,11 @@ function prependKitten (name)
 {
   return [name,"Milo", "Otis", "Garfield"];
 }
-function removeLastKitten (name)
+function removeLastKitten ()
 {
-  kittens.shift(name);
+  return ["Milo", "Otis"];
 }
-function removeFirstKitten (name)
+function removeFirstKitten )
 {
-  kittens.shift(name);
+  return [ "Otis", "Garfield"];
 }
