@@ -30,7 +30,7 @@ function removeLastKitten ()
 {
   return ["Milo", "Otis"];
 }
-function removeFirstKitten )
+function removeFirstKitten ()
 {
   return [ "Otis", "Garfield"];
 }
